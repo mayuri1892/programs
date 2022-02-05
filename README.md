@@ -1,5 +1,6 @@
 # programs
-Problem: The “witchy” programmer
+##Problem: The “witchy” programmer
+
 Somewhere far far away, there is a village which is controlled by a dark and cunning witch. Coincidentally, this witch is also a die-hard programmer.
 The witch has power to control death and life of the villager. The witch will kill a number of villagers each year.
 Since the witch is a die hard programmer, she follows a specific rule to decide the number of villagers she should kill each year.
@@ -26,7 +27,7 @@ So, if someone can create a program to solve the problem, the witch will leave a
 There was one programmer who was able to solve the problem, but the witch did not like the code because the code was messy and made her angry.
 She then proceeded to kill the programmer. Now the villagers know that they also need to make the code clean and structured. Now you are asked by the villagers to do another attempt in solving this problem.
 
-Solution:
+##Solution:
 In this program, we are passing list of persons, which returns average number of people killed on the born year of those people.
 
 1) Check the persons, no negative age allowed. born year can not be greater than age of death.
